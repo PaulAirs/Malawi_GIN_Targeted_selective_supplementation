@@ -1,0 +1,9 @@
+Group,Consecutive,Frequency,Proportion
+control-TST,0,94,94.05940594
+control-TST,1,6,5.940594059
+control-TST,2,1,0.99009901
+control-TST,3,1,0.99009901
+plant-TST,0,96,100
+plant-TST,1,0,0
+plant-TST,2,0,0
+plant-TST,3,0,0

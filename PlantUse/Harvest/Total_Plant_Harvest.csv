@@ -1,0 +1,7 @@
+Plant,Count,Harvest_Status
+C. africana,76,Harvested
+F. ingens,90,Harvested
+G. arborea,34,Harvested
+C. africana,285,Not_Harvested
+F. ingens,839,Not_Harvested
+G. arborea,366,Not_Harvested

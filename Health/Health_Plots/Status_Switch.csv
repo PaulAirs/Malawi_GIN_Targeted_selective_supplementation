@@ -1,0 +1,10 @@
+Treatment,Frequency,Effect,TST-Group
+Plant,72,Healthy,Plant
+Plant,69,Borderline,Plant
+Plant,11,Sick,Plant
+Plant+Drug,12,Healthy,Plant
+Plant+Drug,14,Borderline,Plant
+Plant+Drug,0,Sick,Plant
+Drug,18,Healthy,Drug
+Drug,13,Sick,Drug
+Drug,13,Borderline,Drug
